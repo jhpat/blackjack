@@ -1,18 +1,18 @@
 Class blackjack
 {
- Cards no_of_cards
- suits hearts_diamonds_spades_clubs
+ "Cards no_of_cards!"
+ "suits hearts_diamonds_spades_clubs!"
  characters 1_10+jack+queen+king+ace
- characters shuffle
+ "characters shuffle!"
  {
-  functions hand
-  two_cards_to_start
+  "functions hand!"
+  "two_cards_to_start!"
  }
  {
- Function hand
+ "Function hand!"
  {
  }
- Function players
+ #Function players!"
  {
  }
 }
