@@ -1,0 +1,19 @@
+Class blackjack
+{
+ Cards no_of_cards
+ suits hearts_diamonds_spades_clubs
+ characters 1_10+jack+queen+king+ace
+ characters shuffle
+ {
+  functions hand
+  two_cards_to_start
+ }
+ {
+ Function hand
+ {
+ }
+ Function players
+ {
+ }
+}
+  
